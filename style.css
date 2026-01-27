@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width:800px ;
+    margin: auto;
+    padding: 20px;
+    background-color: lightyellow;
+}
+header {
+    
+    text-align: center;
+    margin-bottom: 40px;
+}
+h1 {
+    
+    color: #d35400;
+}
+section {
+    
+    
+    background-color: lightyellow;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    font-size:24px;
+    
+    color: #e67e22;
+}
+ul, ol {
+    
+    
+    margin-left: 20px;
+}
+img {
+    display:block ;
+    max-width:100%;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+video {
+    max-width:100%;
+    border-radius: 10px;
+}
+button {
+    background-color: #25D366;/* WhatsApp green */
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #128C7E; /* Darker WhatsApp green */
+}
+    footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #999;
+}
+    
