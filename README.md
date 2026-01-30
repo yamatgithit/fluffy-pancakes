@@ -10,7 +10,7 @@ Welcome to my *Fluffy Pancakes Recipe Page! This is a small web project built us
 This project is perfect for learning web development basics and practicing *linking images, styling, and interactive buttons*.
 
 ## How to View
-Click [here](https://yamatgithit.github.io/fluffy-pancakes/) to see the live page! 🌐
+[click here](https://yamatgithit.github.io/fluffy-pancakes/) to see the live page! 🌐
 
 ## Skills Practiced
 - HTML structure and semantics  
